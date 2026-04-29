@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    color: rgb(215, 237, 234);
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    color: rgb(65, 221, 81);
+    text-align: center;
+
+}
+ul li:hover{
+    color: aqua;
+
+}
+p::first-letter{
+    font-size: 50px;
+    color: rgb(131, 5, 5);
+}
+a{
+    color: aliceblue;
+    text-decoration: none;
+    text-align: center;
+
+}
+a:hover{
+    color: rgb(5, 144, 65);
+    
+
+}
